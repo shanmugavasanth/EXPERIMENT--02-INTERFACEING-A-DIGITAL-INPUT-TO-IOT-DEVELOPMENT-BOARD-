@@ -311,7 +311,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  
- 
+ ![IMG_20240308_132752](https://github.com/shanmugavasanth/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870621/f12b847f-4310-40b2-b9ad-49a00b234351)
+
  
  
 ## Result :
